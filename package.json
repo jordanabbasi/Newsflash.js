@@ -1,6 +1,6 @@
 {
   "name" : "newsflash",
-  "version" : "0.1",
+  "version" : "1.0.0",
   "description" : "Scrape the web for news by simply passing in a Javascript array.",
   "main" : "index.js",
   "devDependencies" : {
