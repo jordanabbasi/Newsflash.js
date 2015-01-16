@@ -7,7 +7,7 @@ Scrape the web for news by simply passing in a Javascript array.
 # example
 
 ```
-> var chro = require('newsflash');
+> var newsflash = require('newsflash');
 
 ```
 
